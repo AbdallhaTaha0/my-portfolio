@@ -2,9 +2,9 @@ import { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import { motion } from "motion/react";
 
-const EMAILJS_SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
-const EMAILJS_TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
-const EMAILJS_PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
+const EMAILJS_SERVICE_ID = "service_ozesq4q";
+const EMAILJS_TEMPLATE_ID = "template_bk11za6";
+const EMAILJS_PUBLIC_KEY = "x-EqkYbk98z1b3NIP";
 const RECIPIENT_EMAIL = "AT010Abdallha@gmail.com";
 
 const Contact = () => {
