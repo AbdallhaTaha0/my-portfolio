@@ -2,9 +2,11 @@ import { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import { motion } from "motion/react";
 
-const EMAILJS_SERVICE_ID = "service_ozesq4q";
-const EMAILJS_TEMPLATE_ID = "template_bk11za6";
+const EMAILJS_SERVICE_ID = "service_zbmzs0f";
+const EMAILJS_TEMPLATE_ID = "template_bpcb6hy";
 const EMAILJS_PUBLIC_KEY = "x-EqkYbk98z1b3NIP";
+
+
 const RECIPIENT_EMAIL = "AT010Abdallha@gmail.com";
 
 const Contact = () => {
